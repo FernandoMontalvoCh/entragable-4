@@ -1,0 +1,59 @@
+.li-container {
+    list-style: none;
+    width: 600px;
+    height: 150px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .3);
+    margin-right: 2rem;
+    text-align: left;
+}
+
+.list-container {
+    margin-left: 2rem;
+}
+
+.list-button {
+    text-align: right;
+}
+
+
+.delete-button {
+    border-radius: 0.5rem;
+    border: none;
+    background: red;
+    margin-right: 2rem;
+}
+
+.edit-button {
+    border-radius: 0.5rem;
+    border: none;
+    background: gray;
+    margin-right: 2rem;
+}
+
+.name-container {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-left: 1rem;
+}
+
+.input-container {
+    margin-left: 1rem;
+}
+
+.form-container {
+    margin: 0 auto;
+    width: 400px;
+    height: 250px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .3);
+    text-align: left;
+    margin-top: 12rem;
+}
+
+.form-button {
+    text-align: center;
+}
+
+.h1-form {
+    text-align: center;
+}
